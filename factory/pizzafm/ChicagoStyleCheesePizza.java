@@ -1,4 +1,4 @@
-package headfirst.factory.pizzafm;
+package strategy.factory.pizzafm;
 
 public class ChicagoStyleCheesePizza extends Pizza {
 

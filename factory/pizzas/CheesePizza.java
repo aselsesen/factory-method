@@ -1,4 +1,4 @@
-package headfirst.factory.pizzas;
+package strategy.factory.pizzas;
 
 public class CheesePizza extends Pizza {
 	public CheesePizza() {

@@ -1,4 +1,4 @@
-package headfirst.factory.pizzas;
+package strategy.factory.pizzas;
 
 public class PizzaStore {
 	SimplePizzaFactory factory;
